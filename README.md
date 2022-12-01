@@ -6,8 +6,10 @@ Se realiza una lista donde se recorre 100 números, se determina que valores son
 Cuando un mismo número es múltiplo de 3 y de 5 de denomina "FIZZBUZZ".
 
 ## Links de Interés
+No posee links adjuntos.
 
 ## Requisitos
+No hay requisitos especiales.
 
 ## Colaborador
 Creado con 💜 by Yesica Viatri
